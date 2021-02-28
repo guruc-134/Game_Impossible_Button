@@ -7,3 +7,6 @@
  * We get a game container whose background changes for each reset
  * We can customize the game buttons color using the color picker
  * There is an randomize toggle button which allows us to randomize the colors of the button
+
+Hosted site
+ https://guruc-134.github.io/Game_Impossible_Button/
